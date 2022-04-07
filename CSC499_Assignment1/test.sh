@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#fix this error
 python3 CSC499_Assignment1.py 
 
 # test normal sort
