@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-python3 CSC_Assignment1.py 
+#fix this error
+python3 CSC499_Assignment1.py 
 
 # test normal sort
 if diff normalout.txt normal.txt; then
